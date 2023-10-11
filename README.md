@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Stackoverflow:
+
 <a href="https://stackoverflow.com/users/12425131/ambrustorok"><img src="https://stackoverflow.com/users/flair/12425131.png?theme=clean" width="208" height="58" alt="profile for ambrustorok at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ambrustorok at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+Leetcode:
+
+[![LeetCode user ambrustorok](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fambrustorok&logo=leetcode&logoColor=yellow)](https://leetcode.com/ambrustorok/)
